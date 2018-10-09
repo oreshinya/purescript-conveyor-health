@@ -1,0 +1,31 @@
+{
+  "name": "purescript-conveyor-health",
+  "license": "MIT",
+  "homepage": "https://github.com/oreshinya/purescript-conveyor-health",
+  "authors": [
+    "Shinya Takahashi <s.takahashi313@gmail.com>"
+  ],
+  "description": "Healthcheck endpoint for conveyor",
+  "keywords": [
+    "purescript",
+    "node",
+    "conveyor",
+    "healthcheck"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oreshinya/purescript-conveyor-health.git"
+  },
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-conveyor": "^2.1.0"
+  }
+}
